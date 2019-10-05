@@ -1,0 +1,5 @@
+# plpython3t extension
+comment = 'PL/Python3t trusted procedural language'
+default_version = '1.0'
+module_pathname = '$libdir/plpython3'
+relocatable = true
